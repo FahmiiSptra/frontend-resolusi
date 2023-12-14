@@ -1,0 +1,4 @@
+frontend resolusi
+- Konsisten membuat project 2x seminggu
+- Mempelajari css dan javascript setiap
+- Membuat latihan project dasar setiap 2hari sekali
