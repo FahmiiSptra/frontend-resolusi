@@ -1,0 +1,5 @@
+Haloo mi, Salam kenal nama saya Fahmi dari Jakarta
+
+Resolusi saya : 
+- Membuat website menggunakan framework javascript
+- Membuat website menggunakan framework css
